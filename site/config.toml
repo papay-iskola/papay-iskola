@@ -76,24 +76,6 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
-[[Languages.hu.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.hu.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.hu.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
 [[Languages.hu.menu.main]]
 name = "themefisher"
 url = "https://themefisher.com/"
