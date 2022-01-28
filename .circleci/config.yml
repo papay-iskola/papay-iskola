@@ -7,3 +7,4 @@ workflows:
       - hugo/build:
           source: site/
           hugo-extra-flags: "--themesDir ../.. --gc --theme project"
+          html-proofer: false
