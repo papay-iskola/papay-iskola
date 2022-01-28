@@ -25,3 +25,13 @@ jobs:
 
       - name: Build
         run: hugo -v -s site/ -d public --themesDir ../.. --gc --theme meghna-hugo
+
+      - name: SFTP uploader
+        uses: wangyucode/sftp-upload-action@v1.1
+        with:         
+          host: sftp.edu.hu         
+          username: mvdiakotthon.edu.hu
+          password: ${{ secrets.SFTP_PASSWORD }}
+          localDir: site/static/placeholders
+          remoteDir: www
+        # dryRun: # optional
