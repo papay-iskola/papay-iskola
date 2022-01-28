@@ -1,19 +1,19 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Dokumentumok
 - id: readMore
-  translation: Read more
+  translation: Tovább
 - id: viewAllPost
-  translation: View All Post
+  translation: Összes tartalom
 - id: share
   translation: Share
 - id: aboutAuthor
-  translation: About author
+  translation: Szerző
 - id: authorsPosts
-  translation: Author's posts
+  translation: A szerző tartalmai
 - id: all
-  translation: All
+  translation: Minden
 - id: about
-  translation: About Us
+  translation: Az iskoláról
 - id: services
   translation: Service
 - id: portfolio
@@ -25,6 +25,6 @@
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
+  translation: Kapcsolat
 - id: themefisher
   translation: Themefisher

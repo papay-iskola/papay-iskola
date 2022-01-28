@@ -5,6 +5,5 @@ workflows:
   main:
     jobs:
       - hugo/build:
-          html-proofer: true
           source: site/
           hugo-extra-flags: "--themesDir ../.. --gc --theme project"
