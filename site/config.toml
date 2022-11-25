@@ -68,7 +68,7 @@ weight = 1
 
 [[Languages.hu.menu.main]]
 name = "Dokumentumok"
-url = "#dokumentum"
+url = "dokumentum"
 weight = 6
 
 # [[Languages.hu.menu.main]]
