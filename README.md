@@ -12,3 +12,9 @@ Az ehhez tartozó PDF-ek helye pedig itt: [site/static/pdfs/dokumentum](https://
 ---
 
 https://github.com/themefisher/meghna-hugo a theme forrása, doksija
+
+---
+
+Staging env:
+
+https://papay-iskola.netlify.app/
