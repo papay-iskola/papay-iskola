@@ -43,7 +43,7 @@ link = "plugins/google-map/map.js"
 ################### English Navigation ########################
 [[Languages.hu.menu.main]]
 name = "Az iskoláról"
-url = "#about"
+url = "about"
 weight = 1
 
 # [[Languages.hu.menu.main]]
