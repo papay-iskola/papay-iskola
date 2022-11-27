@@ -5,4 +5,4 @@ image: images/dokumentum/yellow.png
 description : "Házirend"
 ---
 
-[Letöltés](/site/static/pdfs/dokumentum/HAZIREND038497_0.pdf)
+[Letöltés](/pdfs/dokumentum/HAZIREND038497_0.pdf)
