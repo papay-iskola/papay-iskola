@@ -1,7 +1,7 @@
 ---
 title: "Iskolánkról"
 date: 2022-11-26
-image: images/dokumentum/blank.jpg
+image: images/dokumentum/yellow.png
 description : "Iskolánkról"
 ---
 
