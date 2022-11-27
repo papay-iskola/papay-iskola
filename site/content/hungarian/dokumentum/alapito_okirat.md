@@ -5,4 +5,4 @@ image: images/dokumentum/blue.png
 description : "Alapító okirat"
 ---
 
-[Letöltés](/site/static/pdfs/dokumentum/Dokumentum_312705.pdf)
+[Letöltés](/pdfs/dokumentum/Dokumentum_312705.pdf)
