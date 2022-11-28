@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "A Pápay"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
