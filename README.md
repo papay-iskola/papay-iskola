@@ -20,3 +20,13 @@ https://github.com/themefisher/meghna-hugo a theme forrása, doksija
 Staging env:
 
 https://papay-iskola.github.io/
+
+---
+
+Lokális fejlesztő környezet indítás:
+
+```bash
+cd site
+hugo server --watch
+open http://localhost:1313
+```

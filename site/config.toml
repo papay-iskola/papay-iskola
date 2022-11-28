@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "A Pápay"
+title = "Pápay Ágoston Iskola"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -143,4 +143,4 @@ languageCode = "hu"
 contentDir = "content/hungarian"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
