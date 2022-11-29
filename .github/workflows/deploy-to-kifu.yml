@@ -3,7 +3,6 @@ name: Build and deploy to KIFU
 on:
   # Runs on pushes targeting the default branch, releases: 1.*
   push:
-    branches: ["main"]
     tags:        
       - 1.*
 
