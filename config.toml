@@ -43,7 +43,7 @@ link = "plugins/google-map/map.js"
 ################### Hungarian Navigation ########################
 [[Languages.hu.menu.main]]
 name = "Az iskoláról"
-url = "iskolarol"
+url = "#iskolarol"
 weight = 1
 
 [[Languages.hu.menu.main]]
@@ -131,11 +131,11 @@ map_marker = "images/marker.png"
 # link = "#"
 
 
-################################ English Language ########################
+################################ Hungarian Language ########################
 [Languages.hu]
 languageName = "Hu"
 languageCode = "hu"
 contentDir = "content/hungarian"
 weight = 1
-home = "Home"
+home = "Főoldal"
 copyright = ""

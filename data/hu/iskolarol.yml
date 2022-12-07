@@ -1,28 +1,30 @@
 ############################## Contact #############################
 contact:
-  enable : false
-  title : Contact Us
-  subtitle : Contact Details
+  enable : true
+  title : Az iskoláról
+  subtitle : Elérhetőségeink
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Cím: 2462 Martonvásár, Bajcsy-Zsilinszky Endre u. 32."
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Telefon: +36 22 460 003"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Fax: +36 22 460 251"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: titkarsag.papay@gmail.com"
 
+    - icon : ti-stamp # themify icon pack : https://themify.me/themify-icons
+      info : "OM azonosító: 038497"
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"

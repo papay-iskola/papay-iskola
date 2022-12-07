@@ -1,0 +1,16 @@
+/* Don't capitalize!!! */
+.note .excerpt h3 {
+    text-transform: none;
+}
+
+.post-block .content h3 {
+    text-transform: none;
+}
+
+.hero-area .block h1 {
+    text-transform: none;
+}
+
+.title h2 {
+    text-transform: none;
+}
