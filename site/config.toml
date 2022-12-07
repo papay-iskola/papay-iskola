@@ -40,46 +40,41 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
-################### English Navigation ########################
+################### Hungarian Navigation ########################
 [[Languages.hu.menu.main]]
 name = "Az iskoláról"
-url = "about"
+url = "iskolarol"
 weight = 1
 
-# [[Languages.hu.menu.main]]
-# name = "services"
-# url = "#services"
-# weight = 2
-#
-# [[Languages.hu.menu.main]]
-# name = "portfolio"
-# url = "#portfolio"
-# weight = 3
-#
-# [[Languages.hu.menu.main]]
-# name = "team"
-# url = "#team"
-# weight = 4
-#
-# [[Languages.hu.menu.main]]
-# name = "pricing"
-# url = "#pricing"
-# weight = 5
+[[Languages.hu.menu.main]]
+name = "A tanévről"
+url = "#tanevrol"
+weight = 2
 
 [[Languages.hu.menu.main]]
 name = "Dokumentumok"
 url = "dokumentum"
+weight = 3
+
+[[Languages.hu.menu.main]]
+name = "Szakmai programok"
+url = "#szakmai-program"
+weight = 4
+
+[[Languages.hu.menu.main]]
+name = "Hírlevél"
+url = "#hirlevel"
+weight = 5
+
+[[Languages.hu.menu.main]]
+name = "Kapcsolatok"
+url = "#kapcsolatok"
 weight = 6
 
-# [[Languages.hu.menu.main]]
-# name = "contact"
-# url = "#contact"
-# weight = 7
-#
-# [[Languages.hu.menu.main]]
-# name = "themefisher"
-# url = "https://themefisher.com/"
-# weight = 8
+[[Languages.hu.menu.main]]
+name = "Eseménynaptár"
+url = "#esemenyek"
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]
