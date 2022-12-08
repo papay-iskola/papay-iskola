@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Dokumentumok
+  translation: Hírek
 - id: readMore
   translation: Tovább
 - id: viewAllPost
-  translation: Összes tartalom
+  translation: Összes hír
 - id: share
   translation: Share
 - id: aboutAuthor
