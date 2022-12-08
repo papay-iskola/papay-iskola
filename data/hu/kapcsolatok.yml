@@ -1,0 +1,31 @@
+################################# Service #################################
+tiles:
+  enable : true
+  title : Kapcsolatok
+  id: kapcsolatok
+  tile_item :
+    # service item loop
+    - name : Együtt-Értük Alapítvány
+      image: images/kapcsolatok/egyuttertuk.png
+      content: Alapítványunk immár 31 éve (1991 óta) folytatja sokszínű tevékenységét az értelmileg akadályozott, súlyosan-halmozottan sérült, autizmussal élő gyermekek életminőségének fejlesztése céljából.
+      button_text: Tovább
+      link: https://egyutt-ertuk.hu
+
+    - name : Kozmutza Flóra EGYMI
+      image: images/kapcsolatok/kozmutza.png
+      content: A Kozmutza Flóra Óvoda, Általános Iskola, Készségfejlesztő Iskola, Kollégium és Egységes Gyógypedagógiai Módszertani Intézmény 1986 szeptemberében kezdte megműködését.
+      button_text: Tovább
+      link: https://kozmutza-veszprem.hu/
+ 
+    - name : Kecskeméti EGYMI Juhar Utcai Tagintézmény
+      image: images/kapcsolatok/juhar.png
+      content: Kecskeméti Óvoda, Általános Iskola, Készségfejlesztő Iskola, Fejlesztő Nevelést-Oktatást Végző Iskola, Kollégium
+      button_text: Tovább
+      link: https://gyogyped.hu/juhar-utcai-tagintezmeny/
+ 
+    - name : Csalogány EGYMI
+      image: images/kapcsolatok/csalogany.png
+      content: Budapest III. Kerületi Csalogány Óvoda, Általános Iskola, Készségfejlesztő Iskola, Egységes Gyógypedagógiai Módszertani Intézmény, Kollégium és Gyermekotthon
+      button_text: Tovább
+      link: http://csaloganyiskola.hu/
+ 

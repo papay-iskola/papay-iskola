@@ -1,8 +1,9 @@
 ################################# Service #################################
-dokumentumok:
+tiles:
   enable : true
   title : Dokumentumok
-  service_item :
+  id: dokumentum
+  tile_item :
     # service item loop
     - name : Alapító okirat
       image: images/dokumentum/blue.png
