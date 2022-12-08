@@ -1,0 +1,113 @@
+baseURL: 'https://examplesite.com'
+title: Pápay Ágoston Iskola
+theme: meghna-hugo
+paginate: '6'
+summaryLength: '15'
+disqusShortname: ''
+disableLanguages: []
+defaultContentLanguage: hu
+
+############################# Default Parameters ##########################
+params:
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themify-icons/themify-icons.css
+      - link: plugins/magnific-popup/magnific-popup.css
+      - link: plugins/slick/slick.css
+      - link: 'https://fonts.googleapis.com/css?family=Anaheim&display=swap'
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: plugins/lazy-load/lozad.min.js
+      - link: plugins/google-map/map.js
+  logo: images/logo.png
+  description: Pápay Ágoston Iskola
+  author: Themefisher
+  google_analytics_id: ''
+  post_share: false
+  preloader:
+    enable: false
+    preloader: images/logo.png
+  cookies:
+    enable: false
+    expire_days: 2
+  map:
+    enable: false
+    gmap_api: >-
+      https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
+    map_latitude: '51.5223477'
+    map_longitude: '-0.1622023'
+    map_marker: images/marker.png
+
+################### Hungarian Navigation ########################
+Languages:
+  hu:
+    menu:
+      main:
+        - name: Az iskoláról
+          url: '#iskolarol'
+          weight: 1
+        - name: A tanévről
+          url: '#tanevrol'
+          weight: 2
+        - name: Dokumentumok
+          url: '#dokumentum'
+          weight: 3
+        - name: Szakmai programok
+          url: '#szakmai-program'
+          weight: 4
+        - name: Hírek
+          url: '#hirek'
+          weight: 5
+        - name: Kapcsolatok
+          url: '#kapcsolatok'
+          weight: 6
+        # [[Languages.hu.menu.main]]
+        # name = "Eseménynaptár"
+        # url = "#esemenyek"
+        # weight = 7
+    languageName: magyar
+    languageCode: hu
+    contentDir: content/hungarian
+    weight: 1
+    home: Főoldal
+    copyright: ''
+
+# uncomment when KÉK is ready
+#
+# [Languages.kek]
+# languageName = "könnyen érthető kommunikáció"
+# languageCode = "kek"
+# contentDir = "content/kek"
+# weight = 1
+# home = "Főoldal"
+# copyright = ""
+
+############################# social icons ##########################
+# [[params.social]]
+# icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
+#
+# [[params.social]]
+# icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+# link = "#"
