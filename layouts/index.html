@@ -3,7 +3,20 @@
     {{ partial "navigation.html" . }}
     {{ partial "banner.html" . }}
     {{ partial "iskolarol.html" . }}
-    {{ partial "dokumentumok.html" . }}
-    {{ partial "kapcsolatok.html" . }}
+
+    {{ .Scratch.Set "dataName" "tanevrol" }}
+    {{ partial "csempek.html" . }}
+
+
+    {{ .Scratch.Set "dataName" "dokumentumok" }}
+    {{ partial "arnyekcsempek.html" . }}
+
+    {{ .Scratch.Set "dataName" "szakmai-programok" }}
+    {{ partial "csempek.html" . }}
+
     {{ partial "hirek.html" . }}
+
+    {{ .Scratch.Set "dataName" "kapcsolatok" }}
+    {{ partial "csempek.html" . }}
+
 {{ end }}

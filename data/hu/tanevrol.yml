@@ -1,0 +1,12 @@
+################################# Dokumentumok #################################
+tiles:
+  enable : true
+  title : Tanévről
+  id: tanevrol
+  tile_item :
+    # service item loop
+    - name : Teszt csempe
+      image: images/dokumentum/blue.png
+      content: teszt
+      button_text: Tovább
+      link: https://egyutt-ertuk.hu

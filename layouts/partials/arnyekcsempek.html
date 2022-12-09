@@ -1,8 +1,11 @@
 {{/*  clone from service.html  */}}
-{{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.dokumentumok.tiles.enable}}
-	{{ with $data.dokumentumok.tiles}}
+{{ $allData := index site.Data site.Language.Lang }}
+{{ $dataName := .Scratch.Get "dataName" }}
+{{ $data := index $allData $dataName }}
+
+{{ if $data.tiles.enable}}
+	{{ with $data.tiles}}
 		{{"<!-- service -->" | safeHTML }}
 		<section id="{{ .id }}" class="bg-one section">
 			<div class="container">

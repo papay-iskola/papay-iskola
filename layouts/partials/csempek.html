@@ -1,8 +1,11 @@
 {{/*  clone from about.html  */}}
-{{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.kapcsolatok.tiles.enable }}
-{{ with $data.kapcsolatok.tiles }}
+{{ $allData := index site.Data site.Language.Lang }}
+{{ $dataName := .Scratch.Get "dataName" }}
+{{ $data := index $allData $dataName }}
+
+{{ if $data.tiles.enable }}
+{{ with $data.tiles }}
 {{"<!-- Start About Section -->" | safeHTML}}
 <section class="bg-one about section" id="{{ .id }}">
 	<div class="container">
@@ -11,7 +14,8 @@
 				{{"<!-- section title -->" | safeHTML}}
 				<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
 					<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
-						{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
+						 {{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span>
+					</h2>
 					<div class="border-meghna"></div>
 				</div>
 			</div>
