@@ -18,3 +18,8 @@
 .fixed-height-img {
     height: 120px;
 }
+
+.navbar-brand {
+    font-family: quattrocento sans,sans-serif;
+    font-weight: 700;
+}
