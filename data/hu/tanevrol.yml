@@ -1,12 +1,30 @@
 ################################# Dokumentumok #################################
 tiles:
   enable : true
-  title : Tanévről
+  title : "A 2022-23 tanévről"
   id: tanevrol
   tile_item :
     # service item loop
-    - name : Teszt csempe
+    - name : Csengetési rend
       image: images/dokumentum/blue.png
-      content: teszt
+      # content: teszt
       button_text: Tovább
-      link: https://egyutt-ertuk.hu
+      link: /tanevrol/csengetesi-rend
+    
+    - name : Tanév rendje
+      image: images/dokumentum/green.png
+      # content: teszt
+      button_text: Tovább
+      link: /tanevrol/tanev-rendje
+
+    - name : Felvételi tájékoztató
+      image: images/dokumentum/yellow.png
+      # content: teszt
+      button_text: Tovább
+      link: /tanevrol/felveteli-tajekoztato
+
+    - name : KK jelentés
+      image: images/dokumentum/red.png
+      # content: teszt
+      button_text: Tovább
+      link: /tanevrol/kk-jelentes
