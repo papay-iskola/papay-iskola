@@ -16,6 +16,7 @@ params:
       - link: plugins/magnific-popup/magnific-popup.css
       - link: plugins/slick/slick.css
       - link: 'https://fonts.googleapis.com/css?family=Anaheim&display=swap'
+      - link: plugins/fontawesome/css/all.css
     js:
       - link: plugins/jquery/jquery.min.js
       - link: plugins/bootstrap/bootstrap.min.js

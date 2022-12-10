@@ -29,7 +29,11 @@
 							</div>
 							<h3>{{ .name | markdownify }}</h3>
 							<p>{{ .content | markdownify }}</p>
-							<p><a class="btn btn-transparent" href="{{ .link }}">Letöltés</a></p>
+							<p><a class="btn btn-transparent" href="{{ .link }}">Letöltés
+								{{ if strings.HasSuffix .link "pdf" }}
+								<i class="fa-solid fa-file-pdf"></i>
+								{{ end }}
+							</a></p>
 						</div>
 					</article>
 					{{"<!-- End Single Service Item -->" | safeHTML }}
