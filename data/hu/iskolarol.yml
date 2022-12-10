@@ -2,8 +2,12 @@
 contact:
   enable : true
   title : Az iskoláról
-  subtitle : Elérhetőségeink
-  content: Lórum ipse mint mókány nekvő dítás, elsősorban egy dagott iszaton. Szintén kusztott a muncsor fegyetes emelős felészének és higozásának első patántja. Kuli 6-tól, egy köződésön át süke fedő bőgő ceklik ciacolnak misztán. A nyolc cekliig csató szembegyes menkezete, hogy a bohókás fedő redő nidet csoncos csípői és sizmusai hanyíthatsanak misztán. A cseppendők között, amelyekről cértemi alás viszalás vező egyzetet, arás és tális szattyúk, fecselő fesztések, frozsmadzák ciacolnak. 
+  # subtitle : Elérhetőségeink
+  content: |
+    Intézményünk a szakértői bizottság javaslata alapján 50 éve folyamatosan látja el a fejér megyei és a környező megyék értelmileg akadályozott és súlyos-halmozottan sérült tanulóinak nevelését, oktatását.
+    Az iskola Martonvásáron a több mint 100 éves árvaházi épületben működik.
+    Nevét alapító igazgatónkról, Pápay Ágostonról kapta munkásságának elismeréseként.
+    A gyógypedagógiai tevékenységünkben a gyógypedagógiai általános iskolai nevelés mellett a készségfejlesztő iskolai képzés, kollégiumi ellátás és fejlesztő iskolai nevelés is helyet kap.
   
   # Contact details
   contact_list:
