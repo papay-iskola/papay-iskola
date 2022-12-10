@@ -1,4 +1,4 @@
-baseURL: 'https://examplesite.com'
+# baseURL: 'https://examplesite.com'
 title: Pápay Ágoston Iskola
 theme: meghna-hugo
 paginate: '6'
@@ -9,6 +9,7 @@ defaultContentLanguage: hu
 
 ############################# Default Parameters ##########################
 params:
+  env: staging
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
