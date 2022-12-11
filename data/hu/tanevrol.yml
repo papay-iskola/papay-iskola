@@ -23,8 +23,8 @@ tiles:
       button_text: Tovább
       link: /tanevrol/felveteli-tajekoztato
 
-    - name : KK jelentés
+    - name : Különös közzétételi lista
       image: images/dokumentum/red.png
       # content: teszt
       button_text: Tovább
-      link: /tanevrol/kk-jelentes
+      link: /tanevrol/kulonos-kozzeteteli-lista
