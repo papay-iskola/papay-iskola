@@ -26,6 +26,7 @@ params:
       - link: plugins/magnific-popup/jquery.magnific-popup.min.js
       - link: plugins/lazy-load/lozad.min.js
       - link: plugins/google-map/map.js
+      - link: plugins/bootstrapify/js/table.js
   logo: images/logo.png
   description: Pápay Ágoston Iskola
   author: Themefisher

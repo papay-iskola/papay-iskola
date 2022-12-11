@@ -17,6 +17,12 @@ https://github.com/themefisher/meghna-hugo a theme forrása, doksija
 
 Itt van a theme dokumentációja: https://docs.gethugothemes.com/meghna/
 
+### Táblázatok
+
+Markdown formátumban illik: 
+
+Megjelenítés szempontjából bootstrap lehetőségeiből lehet válogatni: https://getbootstrap.com/docs/4.3/content/tables/
+
 ---
 
 Staging env:
@@ -31,3 +37,4 @@ Lokális fejlesztő környezet indítás:
 hugo server --watch
 open http://localhost:1313
 ```
+
