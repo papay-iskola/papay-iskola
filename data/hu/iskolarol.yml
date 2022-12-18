@@ -26,6 +26,19 @@ contact:
     - icon : "fa fa-barcode fa-fw" # themify icon pack : https://themify.me/themify-icons
       info : "OM azonosító: 038497"
 
+  # Button list
+  button_list:
+    - text: "Iskoláról"
+      link: "/iskolarol"
+    - text: "Fejlesztő iskola"
+      link: "/fejleszto-iskola"
+    - text: "Általános iskola"
+      link: "/altalanos-iskola"
+    - text: "Készségfejlesztő iskola"
+      link: "/keszsegfejleszto-iskola"
+    - text: "Kollégium"
+      link: "/kollegium"
+
   # Contact form
   contact_form:
     enable : false
