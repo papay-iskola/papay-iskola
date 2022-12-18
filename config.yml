@@ -7,6 +7,15 @@ disqusShortname: ''
 disableLanguages: []
 defaultContentLanguage: hu
 
+permalinks:
+   tanevrol: /:year/:month/:title/
+   szakmai-programok: /:year/:month/:title/
+   /: /:year/:month/:title/
+removePathAccents: true
+
+# taxonomies:
+#   tanev: tanevek
+
 ############################# Default Parameters ##########################
 params:
   env: staging

@@ -23,6 +23,27 @@ Markdown formátumban illik:
 
 Megjelenítés szempontjából bootstrap lehetőségeiből lehet válogatni: https://getbootstrap.com/docs/4.3/content/tables/
 
+### Videó beágyazás
+
+Csak youtube
+```
+{{< youtube HYguXbuft34 >}}
+```
+### Permalinkek
+
+A permalinkek /év/hónap/cím formátumban jönnek létre.
+
+Ezzel biztosítjuk a jövőbeli hozzáférhetőséget.
+
+Emellett `alias`okat vezetünk be, hogy az aktuális tartalmat a rövid, dátum nélküli címek alapján is el lehessen érni.
+
+Pl. a Fejelsztő iskola leírása a 2022/09/fejleszto-iskola cím alatt lehet elérni, ha változás áll be rajta, akkor pl. a 2023/09/fejleszto-iskola alatt lesz a jövőbeli url, de az alias miatt a /fejleszto-iskola alatt lehet elérni, így nem kell az `iskola` szekció adatán változtani, az mindig a /fejleszto-iskola linkre mutat.
+
+@TODO kell-e felkészülni az egy hónapon belüli tartalom változtatások követésére?
+pl. egy cikk módosul egy helyesírási hiba, vagy tartalmi pontosság miatt. Kell-e megtartanunk a honlapon is a régebbi verziót? (a git szerencsére tartalmazni fogja!!!)
+
+
+
 ---
 
 Staging env:
@@ -37,4 +58,6 @@ Lokális fejlesztő környezet indítás:
 hugo server --watch
 open http://localhost:1313
 ```
+
+
 

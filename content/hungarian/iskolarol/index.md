@@ -2,6 +2,8 @@
 title: "Az iskoláról"
 date: 2022-12-10
 image: images/dokumentum/green.png
+aliases:
+  - "/iskolarol"
 ---
 
 Intézményünk – alapító igazgatónk, Pápay Ágoston munkásságának köszönhetően - 1973. október 1-je óta látja el a megye (középsúlyos fokban) értelmileg akadályozott tanköteles tanulóinak iskolai nevelését –oktatását, szakképzését, mint bentlakásos gyógypedagógiai intézmény.
