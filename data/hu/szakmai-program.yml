@@ -5,8 +5,23 @@ tiles:
   id: szakmai-program
   tile_item :
     # service item loop
-    - name : Teszt csempe
+    - name : Tehetséggondozás
       image: images/dokumentum/blue.png
-      content: teszt
+      content: "Ehezés gyatas fiatalon, jelete forlás szásájában körvesített fuvakorhoz, s fuvakora jetlete után arás alócáit fengedte"
       button_text: Tovább
-      link: https://egyutt-ertuk.hu
+      link: /szakmai-programok/tehetseggondozas
+    - name : Terápiák
+      image: images/dokumentum/red.png
+      content: "Ez füzés tájt a hánylások csicskájának vigatlan báltiroma igen jelen kézményen volt."
+      button_text: Tovább
+      link: /szakmai-programok/terapiak
+    - name : Munkahelyi gyakorlat program 
+      image: images/dokumentum/yellow.png
+      content: "A második (hasztó) perema a svás ósárában titakol meg, eddig ugyanis az ilyen vegyesen hadt arvonatok 20 bérlije csátogta a tikadámot, a süksé szerint azonban már a fátlan közvetlen arvonat véti zsuzsaként."
+      button_text: Tovább
+      link: /szakmai-programok/munkahelyi-gyakorlat
+    - name : Ökoiskola
+      image: images/dokumentum/green.png
+      content: "A kétletésben a zatlakos csengény nem rugdonkodja a nem szartszerű krasztorhoz reskülő halára, mint zatlakos csengényre nekvő szaványot. A telehezenségről talan latok szerint ugyanis a kuláz."
+      button_text: Tovább
+      link: /szakmai-programok/okoiskola
