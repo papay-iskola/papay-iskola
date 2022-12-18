@@ -1,3 +1,17 @@
+/*
+https://github.com/papay-iskola/.github-private/issues/13#issuecomment-1356832015
+az alap szöveg legyen nagyon fehér
+*/
+
+body {
+    color: #dddddd;
+}
+
+a {
+    color: #e83e8c;
+}
+
+
 /* Don't capitalize!!! */
 .note .excerpt h3 {
     text-transform: none;
