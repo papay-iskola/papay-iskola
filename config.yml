@@ -94,26 +94,22 @@ languages:
         - name: Az iskoláról
           url: '#iskolarol'
           weight: 1
-        - name: A tanévről
-          url: '#tanevrol'
-          weight: 2
-        - name: Dokumentumok
-          url: '#dokumentum'
-          weight: 3
-        - name: Szakmai programok
-          url: '#szakmai-program'
-          weight: 4
+        # - name: A tanévről
+        #   url: '#tanevrol'
+        #   weight: 2
+        # - name: Dokumentumok
+        #   url: '#dokumentum'
+        #   weight: 3
+        # - name: Szakmai programok
+        #   url: '#szakmai-program'
+        #   weight: 4
         - name: Hírek
           url: '#hirek'
           weight: 5
-        - name: Kapcsolatok
-          url: '#kapcsolatok'
-          weight: 6
-        # [[Languages.hu.menu.main]]
-        # name = "Eseménynaptár"
-        # url = "#esemenyek"
-        # weight = 7
-    languageName: KÉK
+        # - name: Kapcsolatok
+        #   url: '#kapcsolatok'
+        #   weight: 6
+    languageName: Könnyen érthető kommunikáció
     languageCode: kek
     weight: 1
     home: Főoldal
