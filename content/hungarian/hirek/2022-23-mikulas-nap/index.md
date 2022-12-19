@@ -1,7 +1,7 @@
 ---
 title: Mikulás nap
 date: 2022-12-19
-image: hirek/2022-23-mikulas-nap/borito.png
+image: 2022/12/mikulas-nap/borito.png
 author: Szabóné Torda Csilla
 #description : "meta leírás"
 tanev:
