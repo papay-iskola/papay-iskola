@@ -11,6 +11,7 @@ permalinks:
    tanevrol: /:year/:month/:title/
    szakmai-programok: /:year/:month/:title/
    /: /:year/:month/:title/
+   hirek: /:year/:month/:title/
 removePathAccents: true
 
 # taxonomies:

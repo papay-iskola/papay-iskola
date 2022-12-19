@@ -29,7 +29,21 @@ Csak youtube
 ```
 {{< youtube HYguXbuft34 >}}
 ```
+### Fotóalbum beágyazás
+
+Meg kell osztani az albumot,
+- le kell korlátozni a megosztást, hogy ne kommenteljenek, meg semmit ne csináljanak.
+- ki kell másolni a "hash"-t, és azt használni.
+
+Egyelőre csak a linket rakja ki:
+
+```
+{{<gphoto "CbTXTDtGfQf2h5se6">}}
+```
+
 ### Permalinkek
+
+@TODO még erősen átgondolandó
 
 A permalinkek /év/hónap/cím formátumban jönnek létre.
 
