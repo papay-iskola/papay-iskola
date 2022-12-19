@@ -4,8 +4,8 @@ banner:
   #bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Pápay Ágoston Iskola"
-  content : "Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola és Kollégium"
+  title : "KÉK Pápay Ágoston Iskola"
+  content : "KÉK Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola és Kollégium"
   button:
     enable : false
     label : "Explore Us"
