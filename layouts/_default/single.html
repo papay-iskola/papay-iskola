@@ -15,9 +15,17 @@
             <li class="list-inline-item">{{ dateFormat "2006. 01. 06. Monday" .Date }}</li>            
           {{ end }}
         </ul>
-        {{ if .Params.Image }}
-          <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image">          
-        {{ end }}
+
+        {{ if eq (.Resources.Match "borito.png" | len) 1 }}
+          {{ with .Resources.GetMatch "borito.png" }}
+            <img class="img-fluid mb-50 lozad" data-src="{{ .RelPermalink }}" alt="blog-image">          
+          {{ end }}
+        {{ else }}        
+          {{ if .Params.Image }}
+            <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image">          
+          {{ end }}
+        {{ end}}
+        
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
