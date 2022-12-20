@@ -1,0 +1,14 @@
+<ul>
+        <table>
+            {{ range sort .Site.AllPages "RelPermalink" }}
+                <tr>
+                    <td>
+                        {{ .RelPermalink | path.Dir }}
+                    </td>
+                    <td>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </td>
+                </tr>
+            {{ end }}
+        </li>
+</ul>
