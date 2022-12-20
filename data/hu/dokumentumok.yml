@@ -8,19 +8,19 @@ tiles:
     - name : Alapító okirat
       image: images/dokumentum/blue.png
       # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link: /pdfs/dokumentum/Dokumentum_312705.pdf
+      link: /pdfs/2022-23/dokumentum/Dokumentum_312705.pdf
 
     - name : Házirend
       image: images/dokumentum/yellow.png
       # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link: /pdfs/dokumentum/HAZIREND038497_0.pdf
+      link: /pdfs/2022-23/dokumentum/HAZIREND038497_0.pdf
 
     - name : Pedagógiai program
       image: images/dokumentum/red.png
       # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link: /pdfs/dokumentum/PEDPROG038497_0.pdf
+      link: /pdfs/2022-23/dokumentum/PEDPROG038497_0.pdf
 
     - name : Szervezeti és működési szabályzat
       image: images/dokumentum/green.png
       # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      link: /pdfs/dokumentum/MUKSZAB038497_0.pdf
+      link: /pdfs/2022-23/dokumentum/MUKSZAB038497_0.pdf

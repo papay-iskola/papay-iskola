@@ -7,15 +7,7 @@ disqusShortname: ''
 disableLanguages: []
 defaultContentLanguage: hu
 
-permalinks:
-   tanevrol: /:year/:month/:title/
-   szakmai-programok: /:year/:month/:title/
-   /: /:year/:month/:title/
-   hirek: /:year/:month/:title/
 removePathAccents: true
-
-# taxonomies:
-#   tanev: tanevek
 
 ############################# Default Parameters ##########################
 params:
@@ -39,7 +31,7 @@ params:
       - link: plugins/bootstrapify/js/table.js
   logo: images/logo.png
   description: Pápay Ágoston Iskola
-  author: Themefisher
+  author: Pápay Ágoston Iskola
   google_analytics_id: ''
   post_share: false
   preloader:
@@ -48,13 +40,13 @@ params:
   cookies:
     enable: false
     expire_days: 2
-  map:
-    enable: false
-    gmap_api: >-
-      https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
-    map_latitude: '51.5223477'
-    map_longitude: '-0.1622023'
-    map_marker: images/marker.png
+  # map:
+  #   enable: false
+  #   gmap_api: >-
+  #     https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
+  #   map_latitude: '51.5223477'
+  #   map_longitude: '-0.1622023'
+  #   map_marker: images/marker.png
 
 ################### Hungarian Navigation ########################
 languages:
@@ -79,10 +71,6 @@ languages:
         - name: Kapcsolatok
           url: '#kapcsolatok'
           weight: 6
-        # [[Languages.hu.menu.main]]
-        # name = "Eseménynaptár"
-        # url = "#esemenyek"
-        # weight = 7
     languageName: magyar
     languageCode: hu
     weight: 1
@@ -92,7 +80,7 @@ languages:
     menu:
       main:
         - name: Az iskoláról
-          url: '#iskolarol'
+          url: '/kek/#iskolarol'
           weight: 1
         # - name: A tanévről
         #   url: '#tanevrol'
@@ -104,7 +92,7 @@ languages:
         #   url: '#szakmai-program'
         #   weight: 4
         - name: Hírek
-          url: '#hirek'
+          url: '/kek/#hirek'
           weight: 5
         # - name: Kapcsolatok
         #   url: '#kapcsolatok'
@@ -115,15 +103,6 @@ languages:
     home: Főoldal
     copyright: ''
 
-# uncomment when KÉK is ready
-#
-# [Languages.kek]
-# languageName = "könnyen érthető kommunikáció"
-# languageCode = "kek"
-# contentDir = "content/kek"
-# weight = 1
-# home = "Főoldal"
-# copyright = ""
 
 ############################# social icons ##########################
 # [[params.social]]

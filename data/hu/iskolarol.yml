@@ -29,15 +29,15 @@ contact:
   # Button list
   button_list:
     - text: "Iskoláról"
-      link: "/iskolarol"
+      link: "/intezmeny"
     - text: "Fejlesztő iskola"
-      link: "/fejleszto-iskola"
+      link: "/intezmeny/fejleszto-iskola"
     - text: "Általános iskola"
-      link: "/altalanos-iskola"
+      link: "/intezmeny/altalanos-iskola"
     - text: "Készségfejlesztő iskola"
-      link: "/keszsegfejleszto-iskola"
+      link: "/intezmeny/keszsegfejleszto-iskola"
     - text: "Kollégium"
-      link: "/kollegium"
+      link: "/intezmeny/kollegium"
 
   # Contact form
   contact_form:
