@@ -1,7 +1,7 @@
 ---
 title: "Kollégium"
 date: 2022-12-10
-image: images/dokumentum/green.png
+image: images/dokumentum/yellow.png
 aliases:
   - "/intezmeny/kollegium"
 ---

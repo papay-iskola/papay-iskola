@@ -3,7 +3,7 @@ title: "Az iskoláról"
 date: 2022-12-10
 image: images/dokumentum/green.png
 aliases:
-  - "/intezmeny"
+  - "/intezmeny/"
 ---
 
 Intézményünk – alapító igazgatónk, Pápay Ágoston munkásságának köszönhetően - 1973. október 1-je óta látja el a megye (középsúlyos fokban) értelmileg akadályozott tanköteles tanulóinak iskolai nevelését –oktatását, szakképzését, mint bentlakásos gyógypedagógiai intézmény.
@@ -64,3 +64,9 @@ Célkitűzéseink között szerepel, hogy keressük azokat a lehetőségeket, me
 Ennek kapcsán rendszeresen résztveszünk a városi ünnepségeken, színház-látogatásokon, kultúrális fesztiválokon.
 
 Közös sport- és szabadidős rendezvényeket szervezünk a helyi, illetve a környező települések oktatási intézményeivel.
+
+
+{{<gomb "Fejlesztő iskola" "/intezmeny/fejleszto-iskola">}}
+{{<gomb "Általános iskola" "/intezmeny/altalanos-iskola">}}
+{{<gomb "Készségfejlesztő iskola" "/intezmeny/keszsegfejleszto-iskola">}}
+{{<gomb "Kollégium" "/intezmeny/kollegium">}}

@@ -29,7 +29,7 @@ contact:
   # Button list
   button_list:
     - text: "Iskoláról"
-      link: "/intezmeny"
+      link: "/intezmeny/2022-23/"
     - text: "Fejlesztő iskola"
       link: "/intezmeny/fejleszto-iskola"
     - text: "Általános iskola"

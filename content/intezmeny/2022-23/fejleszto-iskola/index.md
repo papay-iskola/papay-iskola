@@ -1,7 +1,7 @@
 ---
 title: "Fejlesztő-nevelés oktatás"
 date: 2022-12-10
-image: images/dokumentum/green.png
+image: images/dokumentum/blue.png
 aliases:
   - "/intezmeny/fejleszto-iskola"
 ---
