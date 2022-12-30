@@ -18,11 +18,22 @@ https://github.com/themefisher/meghna-hugo a theme forrása, doksija
 Itt van a theme dokumentációja: https://docs.gethugothemes.com/meghna/
 
 
+# Cikkek
+
+## Cikkírás környezetének kialakítása
+
+@TODO:
+
+- github codespace
+- iskolai google drive
+- iskolai feladatkezelő (trello?)
+- email (nem javasolt)
+
 ## Cikkek írása
 
 A cikkeket a `/content/hirek` alatti könyvtár tartalmazza. A könyvtár alkönyvtárakra van bontva, amik az egyes tanéveket reprezentálják. ld: [archívum](archívum)
 
-Egy cikket egy új alkönyvtár reprezentál.
+Egy cikket egy alkönyvtár reprezentál `content/hirek` alatt.
 - alkönyvtár neve: cikk url-jének vége a honlapon
   - pl. `mikulas-nap` a `2022-23` tanévben: alkönyvtár teljes útvonala: `/content/hirek/2022-23/mikulas-nap`
 
