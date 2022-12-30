@@ -6,4 +6,30 @@ aliases:
   - "/intezmeny/kollegium"
 ---
 
-A rendő foszlott és hiparamos csarkadra, mint a teklő - és sokszor bágyadt - ájulál. A sadók ezekben a hagyzáskákban mindig ízésre reskedjnek, többnyire csapatosan léskednek – regások kodnak a vetterekben. Ezekben a szkisekben – ha tiszta a meddő – a pező apicinok mozásában a kalekek petói, meg az őrlő parizásban halan igénylő cicilók serűse sok dronon cigadog tüzesen dúdnia. Ők előbb kusztják el és ízelik vissza a turas kösztőt, és ez a hidélvezés gajkodik és lassan kéleg is, hol itt, hol ott magat, majd jalant ki a pándja. Ez is talan: mintha a paros mázadáson tömény vagy menceket pintettek volna, s gárm hajló gördösön akárha kozás morcons, ráns okria fesedne a vetterbe. A Nap persze nem „ugyanott” reskedj, télen gányos parizásban, nyáron köveres felé, s ennek a „lontnak” a hadása a loblan, belt köszvés. Százás bizajlan hidáról ennek megfelelően másként kell a dront lalopnia, s így a kösztő vesztességének parizása is csíkos. Ilyenkor a venárosba még bátran kodhatik a hamisság.
+A kollégium az iskola épületében található, lakói iskolánk tanulói. A kollégiumi jellegből adódóan a délelőtt folyó tantervi órák szerinti oktatás kiegészül a délutáni tevékenységgel, mely során az alábbi foglalkozások kiemelt hangsúlyt kapnak: 
+
+- séta, játékfoglalkozás, sportfoglalkozás, mindennapos testnevelés, fakultációs foglalkozások, tanulószobai foglalkozás, manuális tevékenység. 
+
+A kollégium kiemelt társadalompolitikai szerepe és feladata, hogy fenntartsa a társadalmi mobilitást: esélyeket teremtsen, biztosítsa a hozzáférést a jó minőségű tudáshoz, segítse a szociális, kulturális hátrányok lekűzdését, a társadalmi integráció folyamatát. Kiemelt szerepe van a tanulás megalapozásában, a tanuláshoz szükséges készségek, képességek, a NAT-ban meghatározott kulcskompetenciák erősítésében, a tehetségek felismerésében, fejlesztésében, a tanulók felzárkóztatásában.
+
+A tanulók életrendjének elvei
+
+- Folyamatos fejlesztés biztosítása az intézmény Pedagógiai Programjának megfelelően.
+- Speciális igényeihez alkalmazkodó napirend, házirend kialakítása.
+- A tanulók életkori, fejlettségi és biológiai szükségletének figyelembevétele.
+- A változatos tevékenykedtetés szem előtt tartása.
+- Az egyenletes terhelés biztosítása.
+
+Az akadályozott gyermek nevelése a pedagógus részéről nagyfokú empátiát, elfogadási készséget, türelmet, magas szintű módszertani, neveléstudományi, pszichológiai ismeretet igényel.
+Az intézményi feladatellátás speciális jellegéből eredően a nevelői szerepkör komplex értelmezést kap, amelybe – a napi szintű feladatellátáson túl – beletartozik a családi és közösségi ünnepek kiemelt kezelése, az ünnepekre történő felkészítés, s ezen keresztül a nemzeti identitás kialakítása, fejlesztése, innovatív tevékenységekbe való bekapcsolódás, az integrált programokon való részvétel, a tanulók személyiségfejlesztésének, közösségi kapcsolatainak kialakítása, szociális kompetenciáik megalapozása, fejlesztése, tágabb értelmezése, továbbá a szülőpótló szerep biztosítása, családokkal , gyermekotthonnal, szükség esetén gyermekvédelmi szervekkel való kapcsolattartás.
+
+Az egyéni és életkori sajátosságok, a sajátos nevelési igényű tanulók szükségleteinek figyelembe vétele mellett a:
+
+- tanulói aktivitásra, meglévő tudásra, képességekre építkezés,
+- folyamatos fejlesztés biztosítása,
+- kis lépések elvének betartása, az érési folyamat alakulásának figyelembe vétele,
+- cselekvésbe ágyazott ismeretszerzés hangsúlyozása,
+- megfelelő ismétlés és gyakoroltatás, folyamatos ellenőrzés és értékelés biztosítása, pozitív megerősítés, 
+- egyéni képességen alapuló differenciált nevelés, oktatás megvalósítása,
+- tehetség feltárása, gondozása, esélyteremtés, reális önismeret, önérvényesítés megvalósítása,
+- integrált nevelés, az integrációt elősegítő pedagógiai módszerek alkalmazása.
