@@ -44,7 +44,8 @@
 					{{ end }}
         		</ul>
 				<!-- Language List -->
-				{{- if site.IsMultiLingual }}
+				{{/* @TODO kék
+					{{- if site.IsMultiLingual }}
 					{{ $siteLanguages := site.Languages}}
 					{{ $pageLang := .Page.Lang}}
 					{{ range .Page.AllTranslations }}
@@ -66,6 +67,7 @@
 						{{ end }}
 					{{ end }}
 				{{ end }}
+				*/}}
 			</div>
 		</nav>
 	</div>
