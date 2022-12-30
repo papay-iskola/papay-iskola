@@ -1,0 +1,4 @@
+---
+title: "Enyedi Krisztián"
+image: ""
+---
