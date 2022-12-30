@@ -65,7 +65,6 @@ Ennek kapcsán rendszeresen résztveszünk a városi ünnepségeken, színház-l
 
 Közös sport- és szabadidős rendezvényeket szervezünk a helyi, illetve a környező települések oktatási intézményeivel.
 
-
 {{<gomb "Fejlesztő iskola" "/intezmeny/fejleszto-iskola">}}
 {{<gomb "Általános iskola" "/intezmeny/altalanos-iskola">}}
 {{<gomb "Készségfejlesztő iskola" "/intezmeny/keszsegfejleszto-iskola">}}
