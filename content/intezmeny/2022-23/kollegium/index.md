@@ -8,7 +8,7 @@ aliases:
 
 A kollégium az iskola épületében található, lakói iskolánk tanulói. A kollégiumi jellegből adódóan a délelőtt folyó tantervi órák szerinti oktatás kiegészül a délutáni tevékenységgel, mely során az alábbi foglalkozások kiemelt hangsúlyt kapnak: 
 
-- séta, játékfoglalkozás, sportfoglalkozás, mindennapos testnevelés, fakultációs foglalkozások, tanulószobai foglalkozás, manuális tevékenység. 
+- séta, játékfoglalkozás, sportfoglalkozás, mindennapos testnevelés, fakultációs foglalkozások, tanulószobai foglalkozás, manuális tevékenység.
 
 A kollégium kiemelt társadalompolitikai szerepe és feladata, hogy fenntartsa a társadalmi mobilitást: esélyeket teremtsen, biztosítsa a hozzáférést a jó minőségű tudáshoz, segítse a szociális, kulturális hátrányok lekűzdését, a társadalmi integráció folyamatát. Kiemelt szerepe van a tanulás megalapozásában, a tanuláshoz szükséges készségek, képességek, a NAT-ban meghatározott kulcskompetenciák erősítésében, a tehetségek felismerésében, fejlesztésében, a tanulók felzárkóztatásában.
 
