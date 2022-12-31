@@ -3,27 +3,27 @@
 {{ partial "navigation.html" . }}
 
 {{"<!-- Start Blog Section -->" | safeHTML}}
-
 <section id="blog" class="section">
   <div class="container">
     <div class="row">
       <div class="col-12">
         {{"<!-- section title -->" | safeHTML}}
         <div class="title text-center wow fadeInDown">
-          <h2>Címkék</h2>
-          {{ if .Data.Term }}
-            <h3>{{ .Data.Term }}</h3>            
-          {{ end }}
+          <h2>Címke: <span class="color">{{ .Data.Term }}</span></h2>
           <div class="border-meghna"></div>
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
-      {{ range .Data.Pages }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+      {{ .Render "article" }}
       {{ end }}
+      <div class="col-12">
+        {{ template "_internal/pagination.html" . }}
       </div>
     </div>
   </div>
 </section>
 {{"<!-- /blog -->" | safeHTML}}
+
 {{ end }}

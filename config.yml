@@ -9,6 +9,9 @@ defaultContentLanguage: hu
 
 removePathAccents: true
 
+taxonomies:
+  tag: tags
+
 ############################# Default Parameters ##########################
 params:
   env: staging
