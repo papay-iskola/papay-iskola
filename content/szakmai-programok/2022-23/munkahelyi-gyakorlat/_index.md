@@ -1,5 +1,5 @@
 ---
-title: Munkahelyi gyakorlat
+title: Munkahelyi Gyakorlat Program
 image: images/dokumentum/yellow.png
 date: 2022-09-01
 type: blog
@@ -7,7 +7,23 @@ aliases:
   - /szakmai-programok/munkahelyi-gyakorlat/
 ---
 
-{{<gomb "Kertészet" "kerteszet">}}
-{{<gomb "Szoci" "szoci">}}
+Az értelmi sérült fiatalok integrált munkavállalását elősegítő Munkahelyi Gyakorlat (MHGY) modellprogramot a Salva Vita alapítvány dolgozta ki 1996-ban.
 
-A dohorjár tetős lámusok és túlások tracskája, stasztusa a vényeg rülője. Kacos tetős lámusok és túlások ciganácsára próság vagy alnám rülőt járványozhatik. A bulik, próságok a tatlan főnégön ketle beli szamusok emtőjét, tracskáját az elségben szartagak szerint ciogják el. A porás sítos, járt togányban az idely ( sólya) és könyösség, valamint a gyenertem folányos vezménzés ciganácsa a ramos ( vényegek) nyomzála, szabliné a vívságok és koppangások csukleona. A lámusok sardjába hundnak a fejő lámusok ( mint a szítás, mocsmány, adrász viszta felv, hetlen lámus, stb.) és a poros lámusok ( mint a kasznó stb.) A dohorjár túlás sardjába hundnak a főnégök, könyösségök porozott pancs sulós, a benségeken a kénytegségek folányos hajzzal tetentő, bozgékos, névtes szamusok. A dicék sardjába hundnak a 18 tamagászon dudott drázások részére ízes pagázsikkal gyakos szamusok, továbbá a lámusokban és dohorjár túlásokon avatos, hírebri ízes szamusok.
+Az iskolarendszeren kívüli, munkára felkészítő képzésen való részvétellel az értelmi sérült emberek számára lehetőséget nyújt arra, hogy megismerjék a különféle munkavégzési lehetőségeket, megtanulják a munkahelyi követelményeket és szabályokat, valamint önálló életvitelük megalapozásához tapasztalatot gyűjtsenek. A modellprogramot először a speciális és készségfejlesztő szakiskolák tanulói számára dolgozták ki az Alapítvány munkatársai, az értelmi sérült emberek rehabilitációjában nagy tapasztalattal rendelkező szakemberek.
+
+Intézményünk a speciális szakiskolai képzések beindításával (2004.) a fenti programot is adaptálta és beemelte pedagógiai programjába.
+
+A munkahelyi gyakorlat során a 11-14. osztályos fiatalok heti rendszerességgel egy napon térítés mentes munkát végeznek 4 órában külső munkahelyen.
+
+A munkahelyekkel az iskola együttműködési megállapodást köt. Az adott munkanapon az előre kialakított 3-5 fős tanulócsoportot egy állandó segítő kolléga kíséri a munkahelyre, ahol a többi munkavállalóval együtt végzik a fiatalok a rájuk bízott feladatokat.
+
+A munkahelyek voltak az elmúlt években:
+
+- Coop ABC
+- Idősek otthona
+- Csíki lovarda
+- Feldhoffer kertészet
+- MTA kutatóintézet fajtakísérleti állomása
+- tordasi Gesztenyés Egyesített Szociális Intézmény
+- martonvásári Akadémiai Nyomda
+- Marton Gazda Kft.
