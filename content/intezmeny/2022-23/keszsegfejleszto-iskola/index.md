@@ -45,4 +45,4 @@ A második szakképzés a 11-12. osztály menetének megfelelően történik.
 
 A két szakképzés végén házi vizsgát tesznek a tanulók, melyről külön vizsgabizonyítványt állítunk ki. A jelenlegi szabályozások értelmében a Készségfejlesztő Iskolák képzésének eredményeként OKJ-s bizonyítvány NEM állítható ki!
 
-A tanulók 11. osztálytól kezdődően heti rendszerességgel, órarendi órák keretében vesznek részt a Munkahelyi Gyakorlat programban.
+A tanulók 11. osztálytól kezdődően heti rendszerességgel, órarendi órák keretében vesznek részt a [Munkahelyi Gyakorlat programban](/szakmai-programok/2022-23/munkahelyi-gyakorlat/).
