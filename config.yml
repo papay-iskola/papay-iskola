@@ -74,6 +74,17 @@ languages:
         - name: Kapcsolatok
           url: '#kapcsolatok'
           weight: 6
+        - name: Média
+          hasChildren: true
+          weight: 7
+        - name: Videók
+          parent: Média
+          url: 'https://www.youtube.com/@papayagostonalt.isk.eskoll1628'
+          weight: 1
+        - name: Iskolaújság, kiadványok
+          parent: Média
+          url: '/iskolaujsag'
+          weight: 2
     languageName: magyar
     languageCode: hu
     weight: 1
