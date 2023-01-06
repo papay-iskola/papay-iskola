@@ -24,3 +24,8 @@ tiles:
       image: images/dokumentum/green.png
       # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       link: /pdfs/2022-23/dokumentum/MUKSZAB038497_0.pdf
+      
+    - name : Helyi tanterv
+      image: images/dokumentum/blue.png
+      # content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      link: /dokumentumok/2022-23/
