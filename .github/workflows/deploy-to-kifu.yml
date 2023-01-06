@@ -26,54 +26,23 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.102.3
-    steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: recursive
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v2
-      - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: public
-
   # Deploy to KIFÜ
   deploy-to-kifu:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
       - name: FTP Deployer to KIFU
         id: deployment-to-kifu
-        uses: sand4rt/ftp-deployer@v1.5
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          sftp: true # optional
-          host: ${{ secrets.FTP_HOST }} # e.g. ftp.host.com or sftp.host.com (without ftp:// or ftps://)
-          port: ${{ secrets.FTP_PORT }} # optional, default is: 21
-          username: ${{ secrets.FTP_USERNAME }} # FTP username
-          password: ${{ secrets.FTP_PASSWORD }} # FTP password
-          remote_folder: www # optional, remote path of your FTP server
-          local_folder: kifu_placeholder # optional, local path, default is: dist
-          cleanup: false # optional, remove existing files inside FTP remote folder
-          include: '["**"]' # optional, e.g. '['dist']'
-          exclude: '[]' # optional, e.g. '['node_modules/**', '.git/**', '*.env']'
-          passive: true # optional
+            username: ${{ secrets.FTP_USERNAME }}
+            server: ${{ secrets.FTP_HOST }}
+            port: ${{ secrets.FTP_PORT }}
+            local_path: './kifu_placeholder'
+            remote_path: 'www/test'
+            sftp_only: true
+            password: ${{ secrets.FTP_PASSWORD }}
