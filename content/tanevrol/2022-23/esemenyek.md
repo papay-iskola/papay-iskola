@@ -8,7 +8,9 @@ aliases:
 
 Egyenlőre:
 
-* forrás: hold naptár
+* források:
+  * hold naptár,
+  * keresztény ünnepek;
 * nézet: havi lista
 
-{{<fullcalendar_gcal "alma12" >}}
+{{<fullcalendar_gcal>}}

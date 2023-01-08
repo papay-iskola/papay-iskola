@@ -45,3 +45,7 @@ a {
 .table-active {
     background-color: #333;
 }
+
+.alapitvany-event {
+    background-color: #1b3340 !important;
+}
