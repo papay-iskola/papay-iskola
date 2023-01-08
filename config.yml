@@ -32,6 +32,10 @@ params:
       - link: plugins/lazy-load/lozad.min.js
       - link: plugins/google-map/map.js
       - link: plugins/bootstrapify/js/table.js
+      - link: plugins/fullcalendar/index.global.js
+      - link: plugins/fullcalendar/google-calendar/index.global.js
+      - link: plugins/fullcalendar/bootstrap4/index.global.js
+      - link: plugins/fullcalendar_gcal/fullcalendar_gcal.js
   logo: images/logo.png
   description: Pápay Ágoston Iskola
   author: Pápay Ágoston Iskola
@@ -142,3 +146,8 @@ languages:
 # [[params.social]]
 # icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
+
+# module:
+#   mounts:
+#       - source: node_modules/fullcalendar
+#         target: assets/fullcalendar

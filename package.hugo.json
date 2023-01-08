@@ -1,5 +1,6 @@
 {
-    "dependencies": {
+  "dependencies": {
+    "fullcalendar": "^6.0.2",
     "hugo-lunr": "^0.0.4"
   },
   "scripts": {
