@@ -147,8 +147,3 @@ languages:
 # [[params.social]]
 # icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 # link = "#"
-
-# module:
-#   mounts:
-#       - source: node_modules/fullcalendar
-#         target: assets/fullcalendar

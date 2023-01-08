@@ -28,3 +28,9 @@ tiles:
       # content: teszt
       button_text: Tovább
       link: /tanevrol/kulonos-kozzeteteli-lista
+      
+    - name : Események
+      image: images/dokumentum/purple.png
+      # content: teszt
+      button_text: Tovább
+      link: /tanevrol/esemenyek
