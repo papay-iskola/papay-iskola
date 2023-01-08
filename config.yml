@@ -33,6 +33,7 @@ params:
       - link: plugins/google-map/map.js
       - link: plugins/bootstrapify/js/table.js
       - link: plugins/fullcalendar/index.global.js
+      - link: plugins/fullcalendar/locales/hu.global.js
       - link: plugins/fullcalendar/google-calendar/index.global.js
       - link: plugins/fullcalendar/bootstrap4/index.global.js
       - link: plugins/fullcalendar_gcal/fullcalendar_gcal.js

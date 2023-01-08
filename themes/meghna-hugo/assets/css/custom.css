@@ -41,3 +41,7 @@ a {
 .post-block {
     height: 100%;
 }
+
+.table-active {
+    background-color: #333;
+}
