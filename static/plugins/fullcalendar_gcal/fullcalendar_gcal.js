@@ -3,7 +3,7 @@
  $(document).ready(function() {
   var calendarEl = document.getElementById('calendar');
   var calendar = new FullCalendar.Calendar( calendarEl, {
-    initialView: 'listMonth',
+    initialView: 'monthGrid',
     googleCalendarApiKey: 'AIzaSyBs_iHXnsg_-srQoaqm__SxO3v2o_LD1Zw',
     eventSources: [
       {
