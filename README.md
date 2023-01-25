@@ -89,6 +89,24 @@ Egyelőre csak a linket rakja ki:
 {{<gphoto "CbTXTDtGfQf2h5se6">}}
 ```
 
+### Hivatkozások (linkek)
+
+A más weboldalra történő hivatkozás:
+
+```
+[Hivatkozás, amit a látogató olvashat](a hivatkozás url-je)
+```
+
+pl.:
+
+```
+Ide [kattintva](https://www.hup.hu) a magyar unix felhasználók oldalát látogathatja meg.
+```
+
+megjelenítve:
+
+Ide [kattintva](https://www.hup.hu) a magyar unix felhasználók oldalát látogathatja meg.
+
 
 ---
 # Környezetek
