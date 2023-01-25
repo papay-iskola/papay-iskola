@@ -7,11 +7,11 @@
     googleCalendarApiKey: 'AIzaSyBs_iHXnsg_-srQoaqm__SxO3v2o_LD1Zw',
     eventSources: [
       {
-        googleCalendarId: 'ht3jlfaac5lfd6263ulfh4tql8@group.calendar.google.com',
+        googleCalendarId: 'mkse3rucalq83d1c3hmijufr1o@group.calendar.google.com',
         className: 'iskola-event'
       },
       {
-        googleCalendarId: 'hu.christian#holiday@group.v.calendar.google.com',
+        googleCalendarId: '2qi0h9h72954mbg2mt92etq2fc@group.calendar.google.com',
         className: 'alapitvany-event'
       }
     ],
