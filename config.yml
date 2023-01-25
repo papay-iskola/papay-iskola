@@ -35,7 +35,7 @@ params:
   logo: /images/logo.png
   description: Pápay Ágoston Iskola
   author: Pápay Ágoston Iskola
-  google_analytics_id: ''
+  google_analytics_id: 'G-2X3RJEGP69'
   post_share: false
   preloader:
     enable: false
