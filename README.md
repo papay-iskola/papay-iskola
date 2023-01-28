@@ -113,6 +113,18 @@ A deployment automatikusan történik a github-ra történő push, vagy a github
 
 ## production környezet
 
+Honlap generálás:
+
+```
+hugo -b https://mvdiakotthon.edu.hu/
+```
+
+Feltöltés: FileZilla
+
+```
+public -> www
+```
+
 A KIFÜ tárhelyére automatikusan kerül ki, de csak stabil kiadások (Release-ek), amiket [szemantikus verziózás](https://semver.org/) módszerével rakunk ki.
 
 - **major version**: nagyon nagy változás, a teljes honap átalakításakor változik
