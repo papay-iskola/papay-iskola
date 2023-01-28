@@ -1,4 +1,4 @@
-# baseURL: 'https://examplesite.com'
+## baseURL: 'https://mvdiakotthon.edu.hu'
 title: Pápay Ágoston Iskola
 theme: meghna-hugo
 paginate: '6'
@@ -17,34 +17,29 @@ params:
   env: staging
   plugins:
     css:
-      - link: plugins/bootstrap/bootstrap.min.css
-      - link: plugins/themify-icons/themify-icons.css
-      - link: plugins/magnific-popup/magnific-popup.css
-      - link: plugins/slick/slick.css
+      - link: /plugins/bootstrap/bootstrap.min.css
+      - link: /plugins/themify-icons/themify-icons.css
+      - link: /plugins/magnific-popup/magnific-popup.css
+      - link: /plugins/slick/slick.css
       - link: 'https://fonts.googleapis.com/css?family=Anaheim&display=swap'
-      - link: plugins/fontawesome/css/all.css
+      - link: /plugins/fontawesome/css/all.css
     js:
-      - link: plugins/jquery/jquery.min.js
-      - link: plugins/bootstrap/bootstrap.min.js
-      - link: plugins/slick/slick.min.js
-      - link: plugins/shuffle/shuffle.min.js
-      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
-      - link: plugins/lazy-load/lozad.min.js
-      - link: plugins/google-map/map.js
-      - link: plugins/bootstrapify/js/table.js
-      - link: plugins/fullcalendar/index.global.js
-      - link: plugins/fullcalendar/locales/hu.global.js
-      - link: plugins/fullcalendar/google-calendar/index.global.js
-      - link: plugins/fullcalendar/bootstrap4/index.global.js
-      - link: plugins/fullcalendar_gcal/fullcalendar_gcal.js
-  logo: images/logo.png
+      - link: /plugins/jquery/jquery.min.js
+      - link: /plugins/bootstrap/bootstrap.min.js
+      - link: /plugins/slick/slick.min.js
+      - link: /plugins/shuffle/shuffle.min.js
+      - link: /plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: /plugins/lazy-load/lozad.min.js
+      - link: /plugins/google-map/map.js
+      - link: /plugins/bootstrapify/js/table.js
+  logo: /images/logo.png
   description: Pápay Ágoston Iskola
   author: Pápay Ágoston Iskola
   google_analytics_id: 'G-2X3RJEGP69'
   post_share: false
   preloader:
     enable: false
-    preloader: images/logo.png
+    preloader: /images/logo.png
   cookies:
     enable: false
     expire_days: 2
