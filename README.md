@@ -158,3 +158,11 @@ pl:
 **1. (minor)** második kiadás, eseménynaptár, archívum, címkefelhő került ki az oldalra,
 
 **2. (patch)** második javítás történt az tartalmakban.
+
+
+## Forgalom analitika
+
+A `google analytics` rendszerben regisztrálva van az oldal, admin jogkörű hozzáférések:
+
+- gyufi@szabocsalad.com
+- botosimre@gmail.com
