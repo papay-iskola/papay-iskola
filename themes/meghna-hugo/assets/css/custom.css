@@ -7,8 +7,9 @@ body {
     color: #dddddd;
 }
 
+/* a11y */
 a {
-    color: #e83e8c;
+    color: #F5ADCE;
 }
 
 
@@ -40,4 +41,17 @@ a {
 
 .post-block {
     height: 100%;
+}
+
+.table-active {
+    background-color: #333;
+}
+
+.alapitvany-event {
+    background-color: #1b3340 !important;
+}
+
+/* a11y */
+.btn-main {
+    color: #242424
 }
