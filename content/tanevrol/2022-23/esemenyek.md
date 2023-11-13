@@ -6,7 +6,7 @@ aliases:
   - "/tanevrol/esemenyek"
 ---
 
-Egyenlőre:
+Egyelőre:
 
 * források:
   * hold naptár,
