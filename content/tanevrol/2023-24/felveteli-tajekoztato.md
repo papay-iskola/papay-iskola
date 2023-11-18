@@ -1,9 +1,11 @@
 ---
 title: Felvételi tájékoztató
-date: 2022-09-01
+date: 2023-11-18
 image: images/dokumentum/yellow.png
+aliases:
+  - "/tanevrol/felveteli-tajekoztato"
 tags:
-  - 2022-23
+  - 2023-24
 ---
 
 ### KÉSZSÉGFEJLESZTŐ ISKOLA
@@ -75,7 +77,3 @@ Egyéb fontos információk:
 
 Nyílt nap:
 : A járványhelyzettől függően kerül megtartásra.
-
-
-
-

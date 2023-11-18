@@ -4,6 +4,8 @@ date: 2022-09-01
 image: images/dokumentum/blue.png
 aliases:
   - "/tanevrol/csengetesi-rend"
+tags:
+  - 2022-23
 ---
 
 
