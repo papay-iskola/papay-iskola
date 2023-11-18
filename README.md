@@ -16,9 +16,10 @@ Itt van a theme dokumentációja: https://docs.gethugothemes.com/meghna/
 @TODO:
 
 - github codespace
-- iskolai google drive
-- iskolai feladatkezelő (trello?)
-- email (nem javasolt)
+  - WIP
+  - kattints a codesapces-re
+  - a terminálba gépeld be, hogy `docker compose up`
+  - mehet a munka
 
 ## Cikkek írása
 
