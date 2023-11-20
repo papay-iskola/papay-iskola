@@ -2,8 +2,8 @@
 title: A 2022-2023-as tanév rendje
 date: 2022-09-01
 image: images/dokumentum/green.png
-aliases:
-  - "/tanevrol/tanev-rendje"
+tags:
+  - 2022-23
 ---
 
 2022/2023. tanévben a tanítási év első tanítási napja 2022. szeptember 1. (csütörtök) és utolsó tanítási napja 2023. június 15. (csütörtök). Így a tanítási napok száma 183 nap, készségfejlesztő iskolában 180 nap.

@@ -1,14 +1,16 @@
 ---
 title: Felvételi tájékoztató
-date: 2022-09-01
+date: 2023-11-18
 image: images/dokumentum/yellow.png
+aliases:
+  - "/tanevrol/felveteli-tajekoztato"
 tags:
-  - 2022-23
+  - 2023-24
 ---
 
 ### KÉSZSÉGFEJLESZTŐ ISKOLA
 
-Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola, Fejlesztő Nevelés-Oktatást Végző Iskola és Kollégium 
+Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola, Fejlesztő Nevelés-Oktatást Végző Iskola és Kollégium
 
 2462 Martonvásár Bajcsy-Zsilinszky E. u. 32.
 
@@ -55,7 +57,7 @@ Oktatott idegen nyelv/nyelvek:
 : \-
 
 Csoportbontásban tanult tantárgyak: 
-: Palánta nevelés, gyakorlati előkészítés, munkahelyi gyakorlat
+: Agyagtárgy készítés, gyakorlati előkészítés, munkahelyi gyakorlat
 
 Felvételi követelmény:
 : A tanulók a Fejér Megyei Pedagógiai Szakszolgálat kijelölése alapján kerülnek beiskolázásra.
@@ -74,8 +76,4 @@ Egyéb fontos információk:
 : \-
 
 Nyílt nap:
-: A járványhelyzettől függően kerül megtartásra.
-
-
-
-
+: 2023. november 23. (csütörtök)

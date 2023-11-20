@@ -1,36 +1,31 @@
 ################################# Dokumentumok #################################
 tiles:
   enable : true
-  title : "A 2022-23 tanévről"
+  title : "A 2023-24 tanévről"
   id: tanevrol
   tile_item :
     # service item loop
     - name : Csengetési rend
       image: images/dokumentum/blue.png
-      # content: teszt
       button_text: Tovább
       link: /tanevrol/csengetesi-rend
     
     - name : Tanév rendje
       image: images/dokumentum/green.png
-      # content: teszt
       button_text: Tovább
       link: /tanevrol/tanev-rendje
 
     - name : Felvételi tájékoztató
       image: images/dokumentum/yellow.png
-      # content: teszt
       button_text: Tovább
       link: /tanevrol/felveteli-tajekoztato
 
     - name : Különös közzétételi lista
       image: images/dokumentum/red.png
-      # content: teszt
       button_text: Tovább
       link: /tanevrol/kulonos-kozzeteteli-lista
       
     - name : Események
       image: images/dokumentum/purple.png
-      # content: teszt
       button_text: Tovább
       link: /tanevrol/esemenyek

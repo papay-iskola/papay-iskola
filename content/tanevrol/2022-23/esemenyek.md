@@ -6,11 +6,4 @@ aliases:
   - "/tanevrol/esemenyek"
 ---
 
-Egyelőre:
-
-* források:
-  * hold naptár,
-  * keresztény ünnepek;
-* nézet: havi lista
-
 {{<fullcalendar_gcal>}}
