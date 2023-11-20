@@ -109,6 +109,17 @@ megjelenítve:
 Ide [kattintva](https://www.hup.hu) a magyar unix felhasználók oldalát látogathatja meg.
 
 
+## Archívum
+
+Nincs kimondott archívum menüpont.
+
+A cikkeket címkékkel (`tags`) látjuk el, ezáltal kategorizálva vannak.
+
+A főoldalra csak külön címkével rendelkező cikkek kerülnek, azok nincsenek "archiválva".
+
+Az egyéb dokumentumokat is címkézzük, praktikussan az iskolai évvel (pl. `#2022-23`),
+és így egy helyen lehet őket megtalálni (https://mvdiakotthon.edu.hu/tags/2022-23);
+
 ---
 # Környezetek
 
@@ -144,21 +155,11 @@ Feltöltés: FileZilla
 public -> www
 ```
 
-A KIFÜ tárhelyére automatikusan kerül ki, de csak stabil kiadások (Release-ek), amiket [szemantikus verziózás](https://semver.org/) módszerével rakunk ki.
+A kiadások verziószámai 2023-11-20 as release-től dátum alapúak, és szakít a `semver` megközelítéstől.
 
-- **major version**: nagyon nagy változás, a teljes honap átalakításakor változik
-- **minor version**: új tartalom kerül ki az oldalra, új funkció kerül ki az oldalra (keresés, archívum)
-- **patch version**: javítások, elgépelések, tartalom javításai, kékítések
+Ha muszáj, akkor a staging verzió a YYYY-MM-DD-pre verziószámot veszik fel.
 
-pl:
-
-**1.1.2** -> **`major.minor.patch`**
-
-**1. (major)** hugo alapú új honlap,
-
-**1. (minor)** második kiadás, eseménynaptár, archívum, címkefelhő került ki az oldalra,
-
-**2. (patch)** második javítás történt az tartalmakban.
+A projektmanagementben is mérföldköveket a release szám alapján csinálunk.
 
 
 ## Forgalom analitika
