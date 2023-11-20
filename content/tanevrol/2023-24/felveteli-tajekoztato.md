@@ -57,7 +57,7 @@ Oktatott idegen nyelv/nyelvek:
 : \-
 
 Csoportbontásban tanult tantárgyak: 
-: Palánta nevelés, gyakorlati előkészítés, munkahelyi gyakorlat
+: Agyagtárgy készítés, gyakorlati előkészítés, munkahelyi gyakorlat
 
 Felvételi követelmény:
 : A tanulók a Fejér Megyei Pedagógiai Szakszolgálat kijelölése alapján kerülnek beiskolázásra.
@@ -76,4 +76,4 @@ Egyéb fontos információk:
 : \-
 
 Nyílt nap:
-: A járványhelyzettől függően kerül megtartásra.
+: 2023. november 23. (csütörtök)
