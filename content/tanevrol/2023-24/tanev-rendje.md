@@ -1,5 +1,5 @@
 ---
-title: A 2023-2024-as tanév rendje
+title: A 2023-2024-es tanév rendje
 date: 2023-11-18
 image: images/dokumentum/green.png
 aliases:
@@ -14,8 +14,8 @@ A tanítási év első féléve 2024. január 19-ig tart. Az iskolák 2024. janu
 
 A tanítási szünetek pontos dátumait is tartalmazó információkat az alábbi táblázatban gyűjtöttük össze.
 
-| Esemény             | Dátum                           |
-|---------------------|---------------------------------|
+| Esemény             | Dátum       |
+|---------------------|-------------|
 | Tanév kezdete       | 2023.09.01. |
 | Utolsó tanítási nap | 2024.06.21. |
 | Első félév vége     | 2024.01.19. |

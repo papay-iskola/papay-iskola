@@ -8,7 +8,7 @@ tags:
 
 ### KÉSZSÉGFEJLESZTŐ ISKOLA
 
-Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola és Kollégium 
+Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola, Fejlesztő Nevelés-Oktatást Végző Iskola és Kollégium 
 
 2462 Martonvásár Bajcsy-Zsilinszky E. u. 32.
 
