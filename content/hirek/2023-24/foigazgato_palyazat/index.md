@@ -7,7 +7,7 @@ KÖZSZOLGÁLLÁS sorszám:
   57090
 Intézményi iktatószám:
   TK/065/574/2024
-ÁLLÁSPÁLYÁZAT
+**ÁLLÁSPÁLYÁZAT**
 
 DUNAÚJVÁROSI TANKERÜLETI KÖZPONT
 Pápay Ágoston Általános Iskola, Készségfejlesztő Iskola, Fejlesztő Nevelés-Oktatást Végző Iskola és Kollégium
@@ -47,3 +47,5 @@ A pályázati kiírás további közzétételének helye:  https://mvdiakotthon.
 Állás tervezett betöltésének időpontja:  2024.08.16.
 Publikálás tervezett időpontja:  2024.03.16.
 A pályázati kiírás közzétevője a Belügyminisztérium (BM). A pályázati kiírás a közigazgatási szerv által az BM részére megküldött adatokat tartalmazza, így annak tartalmáért a hatályos jogszabály alapján a pályázatot kiíró szerv felel.
+
+Forrás: https://kozszolgallas.ksz.gov.hu/JobAd/Info/57090
