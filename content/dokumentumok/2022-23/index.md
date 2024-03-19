@@ -1,5 +1,0 @@
----
-title: Helyi tanterv
----
-
-heló
