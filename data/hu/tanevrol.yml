@@ -24,8 +24,8 @@ tiles:
       image: images/dokumentum/red.png
       button_text: Tovább
       link: /tanevrol/kulonos-kozzeteteli-lista
-      
-    - name : Események
-      image: images/dokumentum/purple.png
+
+    - name : Főigazgatói pályázat
+      image: images/dokumentum/blue.png
       button_text: Tovább
-      link: /tanevrol/esemenyek
+      link: /tanevrol/2023-24/foigazgatoi-palyazat
